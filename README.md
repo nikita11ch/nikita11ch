@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 NIKITA CHAURASIA</a></h1>
+  [![HitCount](https://hits.dwyl.com/nikita11ch/nikita11ch.svg?style=flat-square)](http://hits.dwyl.com/nikita11ch/nikita11ch)
+
 <h3 align="center">A Passionate  Full Stack Java Developer </h3>
 
 
