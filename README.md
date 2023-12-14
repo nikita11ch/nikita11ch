@@ -1,3 +1,6 @@
+<!-- Add the following line to display the profile views -->
+![Profile Views](https://komarev.com/ghpvc/?username=nikita11ch&color=brightgreen)
+
 <h1 align="center">Hi there! 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURASIA</a></h1>
 
 <h3 align="center">Passionate Full Stack Java Developer 🚀</h3>
@@ -7,7 +10,7 @@
 </p>
 
 - 🌱 Currently mastering Java
-- 💬 Ask me about **C-language,HTML,CSS,JS**
+- 💬 Ask me about **C**
 - 📫 Reach me at **nikitachaurasia755@gmail.com**
 
 <h3 align="center">Connect with me 🤝</h3>
