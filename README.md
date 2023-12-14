@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 NIKITA CHAURASIA</a></h1>
- 
+   https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fnikita11ch%2Fnikita11ch.json%3Fcolor%3Dpink
+
 <h3 align="center">A Passionate  Full Stack Java Developer </h3>
 
 
