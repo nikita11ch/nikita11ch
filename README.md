@@ -20,4 +20,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
   <a target="_blank" href="https://github.com/nikita11ch">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a target="_blank" href="https://www.hackerrank.com/profile/nikitachaurasia2">
+    <img src="https://img.shields.io/badge/-HackerRank-black?style=flat&logo=hackerrank" alt="HackerRank"></a>
 </p>
