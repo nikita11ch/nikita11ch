@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 Currently mastering Java
-- 💬 Ask me about **C**
+- 💬 Ask me about **C language,Frontend**
 - 📫 Reach me at **nikitachaurasia755@gmail.com**
 
 <h3 align="center">Connect with me 🤝</h3>
