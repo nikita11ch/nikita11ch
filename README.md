@@ -15,7 +15,7 @@
 - 👨‍💻 Check out my Portfolio @ **https://nikita11ch.github.io/My-Portfolio/**
   <br>
   <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojag30&show_icons=true&locale=en&layout=compact" alt="poojag30" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita11ch&show_icons=true&locale=en&layout=compact" alt="nikita11ch" /></p>
 
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
