@@ -2,7 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nikita11ch&color=brightgreen)
 
 <h1 align="center">Hi there! 👋 I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURASIA</a>
-<img height="90" width="130" alt="GIF" src="https://github.com/nikita11ch/nikita11ch/assets/115834443/5c3ecabb-5a17-48d5-ba8d-50b473f4ca92">
 
 </h1>
 
