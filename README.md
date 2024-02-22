@@ -29,8 +29,9 @@
   <a target="_blank" href="https://www.hackerrank.com/profile/nikitachaurasia2">
     <img src="https://img.shields.io/badge/-HackerRank-black?style=flat&logo=hackerrank" alt="HackerRank"></a>
 </p>
- 
- 
+
+<hr> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita11ch" alt="nikita11ch" /></p> 
 
 
 
