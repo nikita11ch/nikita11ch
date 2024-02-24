@@ -14,12 +14,12 @@ I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURAS
 <hr>
 
 ### :woman_technologist: About Me :
-- 🌱 Currently mastering Java (J2E)
+- 🌱 I'm currently mastering Java (J2E)
 - 💬 Ask me about **C language, Frontend, Java (JSE)**
-- 📫 Mail me  <a href ="nikitachaurasia755@gmail.com">Mail</a>
+- 📫 Mail me @ <a href ="nikitachaurasia755@gmail.com">Mail</a>
 - 👨‍💻 Checkout my Portfolio <a href ="https://nikita11ch.github.io/My-Portfolio/">Nikita Chaurasia</a>
-  <br>
-  <br>
+<br>
+<br>
 <hr>
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
