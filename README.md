@@ -18,6 +18,8 @@ I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURAS
 - 💬 Ask me about **C language, Frontend, Java (JSE)**
 - 📫 Mail me @ <a href ="nikitachaurasia755@gmail.com">Mail</a>
 - 👨‍💻 Checkout my Portfolio <a href ="https://nikita11ch.github.io/My-Portfolio/">Nikita Chaurasia</a>
+- ☕ <b>Why do Java developers never give up?</b>
+  <br>Because they know that every "exception" leads to a better solution! 
 <br>
 <br>
 <hr>
