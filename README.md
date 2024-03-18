@@ -21,7 +21,6 @@ I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURAS
 - ☕ <b>Why do Java developers never give up?</b>
   <br>Because they know that every "exception" leads to a better solution! 
 <br>
-<br>
 <hr>
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
