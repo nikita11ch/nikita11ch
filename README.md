@@ -20,7 +20,6 @@ I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURAS
 - 👨‍💻 Checkout my Portfolio <a href ="https://nikita11ch.github.io/My-Portfolio/">Nikita Chaurasia</a>
 - ☕ <b>Why do Java developers never give up?</b>
   <br>Because they know that every "exception" leads to a better solution! 
-<br>
 <hr>
 
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
@@ -44,11 +43,14 @@ I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">NIKITA CHAURAS
 <h3 align="left">🤝Connect With Me :</h3>
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/nikita-chaurasia">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+    <img src="https://img.icons8.com/?size=80&id=67673&format=png" alt="LinkedIn"></a>
   <a target="_blank" href="https://github.com/nikita11ch">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+    <img src="https://img.icons8.com/?size=80&id=Pov8Es0m6ZHz&format=png" alt="GitHub"></a>
+  <a target="_blank" href="https://medium.com/@nikitachaurasia755">
+    <img src="https://img.icons8.com/?size=64&id=kXpTR7n8QCEP&format=png" alt="Medium"></a>
   <a target="_blank" href="https://www.hackerrank.com/profile/nikitachaurasia2">
     <img src="https://img.shields.io/badge/-HackerRank-black?style=flat&logo=hackerrank" alt="HackerRank"></a>
+  
 </p>
 
 
